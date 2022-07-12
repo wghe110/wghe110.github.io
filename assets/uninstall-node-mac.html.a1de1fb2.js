@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-79183915","path":"/environment/uninstall-node-mac.html","title":"mac\u4E0B\u5378\u8F7Dnode\u548Cnpm","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657272475000,"contributors":[{"name":"wanggonghe","email":"wanggonghe@cestc.cn","commits":1}]},"filePathRelative":"environment/uninstall-node-mac.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e0d34f82","path":"/environment/env-mac.html","title":"mac","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657272475000,"contributors":[{"name":"wanggonghe","email":"wanggonghe@cestc.cn","commits":1}]},"filePathRelative":"environment/env-mac.md"}');export{e as data};

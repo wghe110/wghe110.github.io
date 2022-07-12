@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7b2581bb","path":"/environment/npm-reg-taobao.html","title":"npm\u914D\u7F6Etaobao\u955C\u50CF","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657272475000,"contributors":[{"name":"wanggonghe","email":"wanggonghe@cestc.cn","commits":1}]},"filePathRelative":"environment/npm-reg-taobao.md"}');export{e as data};
