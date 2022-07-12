@@ -1,1 +1,0 @@
-import{_ as a,o as t,c as r,a as e,b as c}from"./app.d4f56eb3.js";const n={},o=e("h1",{id:"wghe110",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#wghe110","aria-hidden":"true"},"#"),c(" wghe110")],-1),s=[o];function _(d,h){return t(),r("div",null,s)}var l=a(n,[["render",_],["__file","index.html.vue"]]);export{l as default};
